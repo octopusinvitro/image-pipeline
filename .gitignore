@@ -1,0 +1,15 @@
+env
+venv
+.ipynb_checkpoints
+
+data/*
+!data/.gitkeep
+
+output/*
+!output/.gitkeep
+
+tests/fixtures/*
+!tests/fixtures/.gitkeep
+
+tests/temp/*
+!tests/temp/.gitkeep

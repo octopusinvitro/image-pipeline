@@ -1,0 +1,4 @@
+#!/bin/bash
+
+clear
+flake8 *.py pipeline tests --max-line-length=100
